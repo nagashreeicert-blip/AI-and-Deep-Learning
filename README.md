@@ -105,4 +105,5 @@ It’s your first decisive step toward leadership in AI and ML roles.
 # 🔗 Helpful Links
 
 AI & Deep Learning Certification Page → https://www.icertglobal.com/new-technologies/artificial-intelligence-and-deep-learning
-iCert Global Homepage → https://www.icertglobal.com
+
+iCert Global  → https://www.icertglobal.com
